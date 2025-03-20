@@ -13,3 +13,5 @@ jobs:
               
             - name: Python Syntax Checker
               uses: EsmoMU/my-first-custom-action@main
+              with:
+                args: 'howdy'
